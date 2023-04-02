@@ -1,0 +1,2 @@
+B1: Cho cái file uf2 vào cái "ổ đĩa" của pico trước
+B2: Dùng file test (.py) bằng Thonny, 
